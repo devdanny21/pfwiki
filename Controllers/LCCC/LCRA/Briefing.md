@@ -9,7 +9,6 @@
 | Item | Value |
 |---|---|
 | ICAO Code | LCRA |
-| Aerodrome Reference Point (ARP) | Lat: 101.04, Long: 147.01 |
 | Elevation | 74 ft |
 | Transition Altitude | 8000 ft (3000 ft) |
 
